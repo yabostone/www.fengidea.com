@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>彭峰的个人博客</title>
+        <link>http://example.org/</link>
+        <description>小站七年后重新开张啦</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>git4xuan@gmail.com (Peng Feng)</managingEditor>
+            <webMaster>git4xuan@gmail.com (Peng Feng)</webMaster><lastBuildDate>Wed, 18 May 2022 21:44:25 &#43;0800</lastBuildDate>
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>首页</title>
+    <link>http://example.org/first_post/</link>
+    <pubDate>Wed, 18 May 2022 21:44:25 &#43;0800</pubDate>
+    <author>Peng Feng</author>
+    <guid>http://example.org/first_post/</guid>
+    <description><![CDATA[博客导航和首页地方。]]></description>
+</item>
+</channel>
+</rss>
